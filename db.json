@@ -1,8 +1,5 @@
-{
-  "student" : 
-  [
+[
     {"firstName" : "Sushil", "Country": "INDIA"},
     {"firstName" : "Raj", "Country": "pak"},
     {"firstName" : "RK", "Country": "china"}
-  ]
-}
+]
